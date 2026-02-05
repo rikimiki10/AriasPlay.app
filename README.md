@@ -1,0 +1,2 @@
+# AriasPlay.app
+app personal
