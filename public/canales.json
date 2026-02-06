@@ -1,4 +1,42 @@
 {
   "updated": "2026-02-05",
-  "categories": []
+  "app": {
+    "name": "Aria Play TV",
+    "version": "1.1"
+  },
+  "categories": [
+    {
+      "id": "CyS",
+      "name": "Cine y Series",
+      "channels": [
+        {
+          "id": "hbo",
+          "name": "HBO",
+          "logo": "https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png",
+          "url": "http://tv.diablotv.net:8080/munarmanu1/fc969fd444c0/9668",
+          "type": "hls"
+        },
+        {
+          "id": "hbo 2",
+          "name": "HBO 2",
+          "logo": "https://1.bp.blogspot.com/-juIr-lsEvsQ/Xas8q-gU-fI/AAAAAAAAAaI/oQUWMOeVDIAAueeGkwweO76FIosqJndlgCLcBGAsYHQ/s200/33.png",
+          "url": "http://tv.diablotv.net:8080/munarmanu1/fc969fd444c0/9673",
+          "type": "hls"
+        }
+      ]
+    },
+    {
+      "id": "dep",
+      "name": "Deportes",
+      "channels": [
+        {
+          "id": "tyc",
+          "name": "TyC Sports",
+          "logo": "https://1.bp.blogspot.com/-clt7G_R4DNw/Xg-MJOM_YMI/AAAAAAAAA6A/ulOuWvu97K0QvGGyHNHcANUkSMGPeRLGQCLcBGAsYHQ/s200/23.png",
+          "url": "http://tv.diablotv.net:8080/live/JohnCamposIPTVCLUB/V1ZdbFABA1/9608.m3u8",
+          "type": "hls"
+        }
+      ]
+    }
+  ]
 }
